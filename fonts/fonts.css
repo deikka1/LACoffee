@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Rancho';
+    src: url('./Rancho/Rancho-Regular.eot');
+    src: local('Rancho Regular'), local('Rancho-Regular'),
+        url('./Rancho/Rancho-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./Rancho/Rancho-Regular.woff2') format('woff2'),
+        url('./Rancho/Rancho-Regular.woff') format('woff'),
+        url('./Rancho/Rancho-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
